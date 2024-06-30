@@ -20,8 +20,8 @@ Economic growth: Access to bank accounts fosters long-term economic growth by em
 
 Python: For data preprocessing, feature engineering, and building machine learning models.
 
-Machine Learning Models: Implementing algorithms to predict an individual likelihood of having or using a bank account.
+Machine Learning Models: Implementing algorithms in classification to predict an individual likelihood of having or using a bank account.
 
-Data Analysis: Utilizing tools like Pandas and NumPy for data manipulation and analysis(Visualization).
+Data Analysis: Utilizing tools like NumPy and Pandas for data manipulation and analysis(Visualization).
 
 
