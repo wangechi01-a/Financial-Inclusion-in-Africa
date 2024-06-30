@@ -14,7 +14,7 @@ Increased Security: Bank accounts enhance financial security,Predictive models h
 
 Convenience: Easy and accessible banking services reduce barriers to financial participation for underserved communities, enhancing their economic engagement.
 
-Access to bank accounts fosters long-term economic growth by empowering households and businesses to participate in financial transactions and establish creditworthiness.
+Economic growth: Access to bank accounts fosters long-term economic growth by empowering households and businesses to participate in financial transactions and establish creditworthiness.
 
 # Tools Used:
 
