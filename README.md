@@ -2,7 +2,7 @@
 
 # Aim 
 
-The objective of this competition is to create a machine learning model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security. The metrics are that  1 indicates that the individual does have a bank account and 0 indicates that they do not.
+The objective of this project is to create a machine learning model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security. The metrics are that  1 indicates that the individual does have a bank account and 0 indicates that they do not.
 
 # Importances of this Challenge
 
